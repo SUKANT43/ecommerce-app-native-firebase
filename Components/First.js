@@ -12,6 +12,7 @@ export default function First() {
            <View style={styles.header}>
                 <Text style={styles.title}>Login here</Text>
             </View>
+            <View></View>
             <View>
                 <Text style={styles.subtitle}>Welcome back, you've been missed!</Text>
             </View>
